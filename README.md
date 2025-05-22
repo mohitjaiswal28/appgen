@@ -79,7 +79,7 @@ my-app/
 
 ## 🌐 AppGen Website
 
-Explore more features, documentation, and community resources on the [AppGen Website](https://appgen.mohitjaiswal.me).
+Explore more features, documentation, and community resources on the [AppGen Website](https://mohitjaiswal-appgen.netlify.app/).
 
 - Get started guides and tutorials
 - API reference and CLI documentation
