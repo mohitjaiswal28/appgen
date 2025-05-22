@@ -1,0 +1,46 @@
+{
+  "name": "appgen",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to generate folder structures for your amazing projects",
+  "main": "bin/appgen.js",
+  "bin": {
+    "appgen": "./bin/appgen.js"
+  },
+  "scripts": {
+    "start": "node bin/appgen.js",
+    "build": "echo \"No build needed for plain JS\"",
+    "test": "echo \"No tests specified yet\" && exit 0",
+    "prepublishOnly": "npm test"
+  },
+  "keywords": [
+    "appgen",
+    "cli",
+    "generator",
+    "react",
+    "node",
+    "starter",
+    "template",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Mohit Jaiswal",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figures": "^3.2.0",
+    "inquirer": "^8.2.4",
+    "ora": "^8.2.0"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohitjaiswal28/appgen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohitjaiswal28/appgen/issues"
+  },
+  "homepage": "https://github.com/mohitjaiswal28/appgen#readme"
+}
