@@ -19,6 +19,33 @@
 
 ---
 
+## 📋 Usage
+
+To scaffold a new project with AppGen, follow these steps:
+
+1. **Create a new project with @mohitjaiswal/appgen:**
+
+   ```bash
+   npx @mohitjaiswal/appgen
+   ```
+
+2. **Follow the interactive prompts** to select:
+
+   - Project type (Node, Django, Java)
+   - API style (REST or GraphQL)
+   - Testing setup (Jest + Supertest, optional)
+
+3. **Navigate to your project folder:**
+
+   ```bash
+   cd my-project
+   ```
+
+4. **Start building!**  
+   Your project comes pre-configured with recommended structure, environment files, and testing setup.
+
+---
+
 ## 🚀 Output Structure (Node with REST Example)
 
 ```
@@ -52,7 +79,7 @@ my-app/
 
 ## 🌐 AppGen Website
 
-Explore more features, documentation, and community resources on the [AppGen Website](https://appgen.dev).
+Explore more features, documentation, and community resources on the [AppGen Website](https://appgen.mohitjaiswal.me).
 
 - Get started guides and tutorials
 - API reference and CLI documentation
