@@ -1,6 +1,6 @@
 {
-  "name": "appgen",
-  "version": "1.0.0",
+  "name": "@mohitjaiswal/appgen",
+  "version": "1.0.1",
   "description": "A simple CLI tool to generate folder structures for your amazing projects",
   "main": "bin/appgen.js",
   "bin": {
