@@ -75,13 +75,3 @@ my-app/
 - **Best Practices by Default**: Enforces structure, testing, and configuration.
 - **Built for Teams**: Scalable architecture for solo devs and large teams alike.
 
----
-
-## 🌐 AppGen Website
-
-Explore more features, documentation, and community resources on the [AppGen Website](https://mohitjaiswal-appgen.netlify.app/).
-
-- Get started guides and tutorials
-- API reference and CLI documentation
-- Example projects and templates
-- Community support and updates
