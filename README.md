@@ -75,3 +75,10 @@ my-app/
 - **Best Practices by Default**: Enforces structure, testing, and configuration.
 - **Built for Teams**: Scalable architecture for solo devs and large teams alike.
 
+---
+
+## 🔥 Demo
+
+See AppGen in action:
+
+![AppGen Demo](/demo/appgen.png)
